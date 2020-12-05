@@ -69,7 +69,6 @@
 
 /* Тут добавил класс для выделения слова Getting Things Done */
 .text_red {
-    display: inline;
     padding: 5px 20px;
     background: tomato;
   }
