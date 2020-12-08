@@ -51,7 +51,7 @@
 
 /* Данный класс выделяет блок жирным */ 
 .paragraph_title_bold {
-    font: 700 32px 'Arial', sans-serif;
+    font: 700 21px 'Arial', sans-serif;
 }
 
 .list_title
